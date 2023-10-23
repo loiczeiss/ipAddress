@@ -8,7 +8,7 @@ const [fetchedData, setFetchedData] = useState({})
 const [searchedIP, setSearchedIP] = useState('')
   // useEffect(() => {
   //   const fetchData = async () => {
-  //     const response = await fetch('https://geo.ipify.org/api/v2/country,city?apiKey=at_0BH3NjKYh6qTCXmV6lCKuZL18XKTP&ipAddress=8.8.8.8');
+  //     const response = await fetch('');
   //     const data = await response.json();
   //     setFetchedData(data)
     
